@@ -12,7 +12,4 @@ Hi, I am Dominik.<br>Currently studying at UITM in Poland, Rzeszów.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Minio931&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minio931&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
