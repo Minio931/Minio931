@@ -1,7 +1,9 @@
 # 💫 About Me:
 Hi, I am Dominik.<br>Currently studying at UITM in Poland, Rzeszów.
 
+- 🔭 I’m currently working on [OrganizeApp](https://github.com/Minio931/Organize-app)
 
+- 🌱 I’m currently learning **React, React Router**
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/168644840509276161) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dominik-chmielowski-798095224/) 
 
