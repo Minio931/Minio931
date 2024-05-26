@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I am Dominik.<br>Currently studying at UITM in Poland, Rzeszów.
 
-- 🔭 I’m currently working on [OrganizeApp](https://github.com/Minio931/Organize-app)
+- 🔭 I’m currently working on -
 
 - 🌱 I’m currently learning **React, React Router**
 ## 🌐 Socials:
