@@ -3,7 +3,7 @@ Hi, I am Dominik.<br>Currently studying at UITM in Poland, Rzeszów.
 
 - 🔭 I’m currently working on -
 
-- 🌱 I’m currently learning **React, React Router**
+- 🌱 I’m currently learning **Angular 18r**
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dominik-chmielowski-798095224/) 
 
